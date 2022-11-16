@@ -1,2 +1,4 @@
+github.com/desktop/desktop v0.0.0-20221116120903-6fd3f1a6b90b h1:4+sdnq70RVdmdB2IPlAWDplmwQMQlPz+5fSJsrH/CM4=
+github.com/desktop/desktop v0.0.0-20221116120903-6fd3f1a6b90b/go.mod h1:7wHsskjaoWhmT453736uwuPe4Qwtrx0CecH6+x6KZ6U=
 github.com/telegramdesktop/tdesktop v4.2.4+incompatible h1:r+8sVwyarcgqyIQBTPcC/+wFbSLISsF5YRZUoxCqnYA=
 github.com/telegramdesktop/tdesktop v4.2.4+incompatible/go.mod h1:Nj6ZctXBrkXfCnltiNk3uK6QxMDEhKZyQ01AWUp8DTI=
