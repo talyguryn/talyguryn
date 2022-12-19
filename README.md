@@ -1,18 +1,15 @@
-### Hi there 👋
+## Latest Blog Articles
 
-Read my article [about bad usage of GitHub Dependency graph](https://codex.so/how-not-to-use-deps-graph-github). GitHub Team, please, fix this issue.
+**`✅ Skill`** [Creating high quality GIF from video](https://codex.so/high-quality-gif-from-mp4)
 
-<!--
-**talyguryn/talyguryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`😳 Explore`** [How not to use GitHub Dependency graph](https://codex.so/how-not-to-use-deps-graph-github)
 
-Here are some ideas to get you started:
+**`💻 Tech`** [SSD upgrade on MacBook Pro 2014](https://codex.so/ssd-upgrade-macbook-pro-2014)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`✨ Update`** [Action nodejs-package-info v1.1](https://codex.so/nodejs-package-info-v1-1)
+
+**`✅ Skill`** [How I ran Outline VPN on Vultr](https://codex.so/outline-vpn)
+
+**`✅ Skill`** [Automate routine tasks with GitHub Actions](https://codex.so/github-actions-intro-en)
+
+[more articles…](https://codex.so/taly)
