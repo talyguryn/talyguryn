@@ -1,6 +1,10 @@
 ## Latest Blog Articles
 
+### Jan 2023
+
 **`✅ Skill`** [Immersive party for a distributed team](https://codex.so/immersive-party-2023)
+
+### Dec 2022
 
 **`✨ Update`** [Icons v0.2.0](https://codex.so/icons-v0-2-0)
 
