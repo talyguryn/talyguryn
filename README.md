@@ -1,3 +1,7 @@
+Want to work with me? Feel free to write on [Telegram](https://t.me/guryn).
+
+<!-- ☕️ `0x47AFb18D356646a7a9E40aA5D9a2E7A9fc5A7444` -->
+
 ## Latest Blog Articles
 
 ### Jan 2023
