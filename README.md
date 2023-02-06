@@ -4,6 +4,10 @@ Want to work with me? Feel free to write on [Telegram](https://t.me/guryn).
 
 ## Latest Blog Articles
 
+### Feb 2023
+
+**`👍 Solution`** [Problem with Docker Desktop on macOS 10.15](https://codex.so/docker-desktop-for-macos-10-15)
+
 ### Jan 2023
 
 **`✅ Skill`** [Immersive party for a distributed team](https://codex.so/immersive-party-2023)
