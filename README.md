@@ -1,8 +1,18 @@
-Want to work with me? Feel free to write on [Telegram](https://t.me/guryn).
+<!-- Want to work with me? Feel free to write on [Telegram](https://t.me/guryn). -->
 
-<!-- ☕️ `0x47AFb18D356646a7a9E40aA5D9a2E7A9fc5A7444` -->
+## Latest Articles
 
-## Latest Blog Articles
+### Dec 2023
+
+**`✅ Skill`** [A guide to NVM: managing Node.js versions with ease](https://codex.so/guide-to-nvm)
+
+**`👍 Solution`** [How to open folder in VS Code from Finder](https://codex.so/open-vscode-from-finder)
+
+### Nov 2023
+
+**`💻 Tech`** [How I installed macOS Sonoma on an old MacBook](https://codex.so/macos-sonoma-with-an-old-mac)
+
+<!--
 
 ### Feb 2023
 
@@ -23,5 +33,7 @@ Want to work with me? Feel free to write on [Telegram](https://t.me/guryn).
 **`💻 Tech`** [SSD upgrade on MacBook Pro 2014](https://codex.so/ssd-upgrade-macbook-pro-2014)
 
 **`✨ Update`** [Action nodejs-package-info v1.1](https://codex.so/nodejs-package-info-v1-1)
+
+-->
 
 [more articles…](https://codex.so/taly)
