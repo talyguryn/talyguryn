@@ -2,6 +2,10 @@
 
 ## Latest Articles
 
+### Jan 2024
+
+**`✅ Skill`** [Unsplash Source for aesthetic placeholder images](https://codex.so/unsplash-source)
+
 ### Dec 2023
 
 **`✅ Skill`** [A guide to NVM: managing Node.js versions with ease](https://codex.so/guide-to-nvm)
